@@ -1,0 +1,16 @@
+{
+  "name": "digidecodeqrdownloader",
+  "version": "1.0.0",
+  "description": "Downloads and formats all QR codes off the bandai namco website for digimon decode redigitize. Only required package install is jimp",
+  "main": "app.js",
+  "dependencies": {
+    "jimp": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
